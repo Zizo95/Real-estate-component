@@ -1,0 +1,31 @@
+body{
+    padding: 0;
+    margin: 0;
+   background-color: #00CD98;
+}
+section{
+    margin: 200px auto;
+    padding: 20px;
+    width: max-content;
+    background-color: white;
+}
+button{
+    padding: 10px 30px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+   background-color: #00CD98;
+   
+}
+h3{
+    line-height: 3px;
+    color: ;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+}
+figure{
+line-height: 5px;
+}
